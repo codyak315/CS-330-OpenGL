@@ -1,6 +1,10 @@
 # CS-330
 Comp Graphic and Visualization
 
+**To Run**
+Unzip > Debug > CS330_FinalProject.exe
+
+
 How do I approach designing software?
   -What new design skills has your work on the project helped you to craft?
   
